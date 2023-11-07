@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+From 4c536f5fb75551035a55be2d1074e42716de9bd1 Mon Sep 17 00:00:00 2001
+Message-ID: <4c536f5fb75551035a55be2d1074e42716de9bd1.1699223258.git.lorenzo@kernel.org>
+In-Reply-To: <da921578a0edc5c5165a319b908abe8ed15eefbb.1699223257.git.lorenzo@kernel.org>
+References: <da921578a0edc5c5165a319b908abe8ed15eefbb.1699223257.git.lorenzo@kernel.org>
+>>>>>>> 2dd54ceefc (mediatek: add upstream patches)
 From: Daniel Golle <daniel@makrotopia.org>
 Date: Tue, 10 Oct 2023 21:06:43 +0200
 Subject: [PATCH net-next 2/2] net: ethernet: mediatek: use QDMA instead of
